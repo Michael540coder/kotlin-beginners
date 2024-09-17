@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Guys Kotlin Learn NOW'
+copyright = 'None; why would I copyright a guide, H1DRO'
+author = 'H1DRO'
 
 release = '0.1'
 version = '0.1.0'
